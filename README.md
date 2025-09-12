@@ -14,9 +14,13 @@ Comparative benchmarking showed that gpt-oss-120b is much faster,  but gemini-2.
 ### 3. Counter-Narrative Generation
 - Generates concise **counter-narratives** to challenge possible self-deception.  
 - Offers **different perspectives** such as:  
-  - Health-first  
-  - Budget-first  
-  - Time-first  
+  - Finance  
+  - Fitness
+  - Career
+  - Relationships  
+  - History
+  - Famous Personas
+  - Medicine
 
 ### 4. Symbolic Program Execution
 - Converts user claims into an **abstract schema**.  
