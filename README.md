@@ -47,15 +47,14 @@ Comparative benchmarking showed that gpt-oss-120b is much faster,  but gemini-2.
 - Tailors self-deception detection and counter-narratives to the selected domain.  
 - Provides tools for **domain-specific abstraction and case selection**.  
 
-## Probe Math
+## 📐 Probe Math
 We trained a lightweight logistic probe to estimate deception risk:
 
-```math
-\text{risk} = \sigma(\mathbf{w}^\top \mathbf{h} + b), 
+$$
+\text{risk} = \sigma\!\left(\mathbf{w}^\top \mathbf{h} + b\right), 
 \quad 
 \sigma(x) = \frac{1}{1+e^{-x}}
-
-## Tech Stack Overview
+$$
 
 The application is built on a **modern, serverless-first stack** leveraging AI for its core functionality.
 
