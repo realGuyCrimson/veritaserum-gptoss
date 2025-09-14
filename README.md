@@ -2,6 +2,8 @@
 
 Comparative benchmarking showed that gpt-oss-120b is much faster,  but gemini-2.5-flash produces more grounded reasoning. This trade off highlights the importance of tailoring the backbone model to the user’s priorities (latency vs. interpretability).
 
+#DEMO VIDEO: https://youtu.be/Ffldva9f5CY
+
 # Features
 ### 1. Claim Input
 - Accepts user input via **text** or **voice**.  
